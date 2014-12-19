@@ -21,7 +21,7 @@ class ViewController: UIViewController {
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that canasfsdfsdafsdafasdfadsf be recreated.
+        // Dispose of any resources thaasfsdfsadfast canasfsdsadfsdafsdfsadfasdffsdafsdafasdfadsf be recreated.
     }
     
     override func touchesEnded(touches: NSSet, withEvent event: UIEvent) {
