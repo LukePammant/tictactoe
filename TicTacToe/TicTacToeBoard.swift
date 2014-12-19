@@ -22,6 +22,7 @@ class TicTacToeBoard: UIView {
     
     // nil = empty, true = X, false = O
     
+    //this should draw a board
     func drawBoard(width: CGFloat, height: CGFloat){
         // Calculate based off of screen width
         var thirdHeight = height / 3
